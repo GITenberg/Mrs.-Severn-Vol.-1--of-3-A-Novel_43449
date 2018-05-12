@@ -1,0 +1,27 @@
+_repo: Mrs.-Severn-Vol.-1--of-3-A-Novel_43449
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43449-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Carter, Mary Elizabeth
+    aliases:
+    - Carter, Mary E.
+    - Stevenson, Mrs.
+    gutenberg_agent_id: '42212'
+    url: http://www.gutenberg.org/2009/agents/42212
+description: ''
+gutenberg_issued: '2013-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43449'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: 'Mrs. Severn: A Novel, Vol. 1 (of 3)'
+url: http://www.gutenberg.org/ebooks/43449
